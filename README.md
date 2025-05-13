@@ -93,7 +93,7 @@ CS123B_Project/
 
 ## Author
 
-**Hina Dawar** — [GitHub](https://github.com/hanaanahi)
+**Hina Dawar**
 
 This project was developed for the CS123B course on Deep Learning and Image Analysis.
 
