@@ -24,25 +24,26 @@ Not included in this repository. Due to file size limitations, the dataset is st
 📁 [Download from Google Drive](https://drive.google.com/drive/folders/1J6ofaFcxfRwT96SHL6hcqD0rL0Hzr49p?usp=drive_link)
 
 To use the data:
-1. Download the file
-2. Place it in the `data/` directory
+
+1. Download the main folder CS123B_Project (with train  and test folders inside)
+  
+2. Place it in the `MyDrive` directory in your Google Drive
+   
 3. Run the preprocessing script
 
-**Expected Folder Structure in Drive:**
+<br>
 
-```
-CS123B_Project/
-├── train/
-│   ├── NORMAL/
-│   ├── PNEUMONIA/
-│   └── TUBERCULOSIS/
-├── test/
-│   ├── NORMAL/
-│   ├── PNEUMONIA/
-│   └── TUBERCULOSIS/
-└── Example_Patient_Xray.jpeg
+**Test Case: Predict on a New X-ray Image**
 
+1. Download Example_Patient_Xray.jpeg file from the repostitory 
+
+2. Upload your image to Google Drive at the following path:
+
+```markdown
+img_path = '/content/drive/MyDrive/Example_Patient_Xray.jpeg'
 ```
+<br>
+
 **How to Run**
 
 1. Open the `.ipynb` file in **Google Colab**
@@ -71,21 +72,24 @@ CS123B_Project/
 
 - Example prediction for a patient image
 
-<br>
-
-**Test Case: Predict on a New X-ray Image**
-
-1. Upload your image to Google Drive at the following path:
-
-```markdown
-img_path = '/content/drive/MyDrive/Example_Patient_Xray.jpeg'
-```
-2. Run the example case code block
-
-
 ### Note
 
 This repository does not include the dataset due to GitHub's file size limitations. Please upload the dataset to your Google Drive manually as instructed.
+
+## Expected Overall Folder Structure in Drive:
+
+```
+CS123B_Project/
+├── train/
+│   ├── NORMAL/
+│   ├── PNEUMONIA/
+│   └── TUBERCULOSIS/
+├── test/
+│   ├── NORMAL/
+│   ├── PNEUMONIA/
+│   └── TUBERCULOSIS/
+└── Example_Patient_Xray.jpeg
+```
 
 ## Author
 
