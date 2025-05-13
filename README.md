@@ -72,6 +72,8 @@ img_path = '/content/drive/MyDrive/Example_Patient_Xray.jpeg'
 
 - Example prediction for a patient image
 
+<br>
+
 **Note**
 
 This repository does not include the dataset due to GitHub's file size limitations. Please upload the dataset to your Google Drive manually as instructed.
