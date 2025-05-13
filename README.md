@@ -46,7 +46,7 @@ img_path = '/content/drive/MyDrive/Example_Patient_Xray.jpeg'
 
 **How to Run**
 
-1. Open the `.ipynb` file in **Google Colab**
+1. Open the `HD_CS123B_Project.ipynb` file (from repository) in **Google Colab**
  
 3. Run all cells to:
    
