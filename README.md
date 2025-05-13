@@ -17,7 +17,16 @@ It is designed to run in **Google Colab**, with the dataset stored in **Google D
 
 ## Dataset
 
-**Not included in this repository. You must upload it to your Google Drive.**
+**Data Access**
+
+Not included in this repository. Due to file size limitations, the dataset is stored externally.
+
+📁 [Download from Google Drive](https://drive.google.com/drive/folders/1J6ofaFcxfRwT96SHL6hcqD0rL0Hzr49p?usp=drive_link)
+
+To use the data:
+1. Download the file
+2. Place it in the `data/` directory
+3. Run the preprocessing script
 
 **Expected Folder Structure in Drive:**
 
